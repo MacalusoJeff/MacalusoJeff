@@ -8,7 +8,7 @@ This is my personal account where I keep some of my personal projects, commonly 
 - 🌱 **I’m currently learning:** astronomy, psychology, music theory, game theory, and environmental science
 - 👯 **I’m looking to collaborate on:** music, space, pro-environmental, or social justice projects
 - 💬 **Ask me about:** Anything! I love to learn, and I've picked up a lot of different things along the way
-- 😄 **Pronouns:** He/him
+- 😄 **Pronouns:** He/they
 - ⚡ **Fun fact:** I live in the town where Twin Peaks was filmed
 
 Think this account looks young? You're correct! I got locked out of [my old account](https://github.com/JeffMacaluso) after a 2FA mishap, so feel free to head over there if you want to see my history.
