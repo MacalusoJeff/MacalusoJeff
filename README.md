@@ -4,7 +4,7 @@
 
 This is my personal account where I keep some of my personal projects, commonly used code, and presentations while exploring various topics in data science and machine learning.
 
-- 🔭 **I’m currently working on:** fun data science and machine learning projects on products at Microsoft
+- 🔭 **I’m currently working on:** fun machine learning projects at Meta
 - 🌱 **I’m currently learning:** astronomy, psychology, music theory, game theory, and environmental science
 - 👯 **I’m looking to collaborate on:** music, space, pro-environmental, or social justice projects
 - 💬 **Ask me about:** Anything! I love to learn, and I've picked up a lot of different things along the way
